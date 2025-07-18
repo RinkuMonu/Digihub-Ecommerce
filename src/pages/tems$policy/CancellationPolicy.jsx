@@ -22,7 +22,7 @@ const CancellationPolicy = () => {
             <h3 className="section-heading">
               <strong>
                 Cancellation Policy for Digihub Unique Tech Solutions Private
-                Limited. Pvt Ltd
+                Limited.
               </strong>
             </h3>
             <p>Last updated: Feb, 20, 2024</p>
